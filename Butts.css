@@ -6,7 +6,6 @@ The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://i.imgur.com/ag4ihCw.jpg');
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.55), rgba(0,0,0,0.55));
@@ -17,7 +16,7 @@ The 2 items above are not owned by me, They go to there respected owners
 
 
 /*Background Img*/
-.appMount-3lHmkl {background-image: var(--background); background-position: center; background-size: cover; background-color: transparent!important;}
+.appMount-3lHmkl {background-image: url(https://i.imgur.com/ag4ihCw.jpg); background-position: center; background-size: cover; background-color: transparent!important;}
 
 /*Home*/
 .tabBar-1E2ExX .primarySelected-3uHKZn {color: red!important;}
